@@ -1,0 +1,9 @@
+replace tests in folder test/ 
+check interaction with smart contracts
+
+edit files:
+gctcTests/general.tests.js
+gctcTests/contract.tests.js
+replace ABIs in README.md file with our smart contracts
+
+src/txs/* now include gctcjs-lib functions
